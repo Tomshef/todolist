@@ -69,6 +69,10 @@ button{
     justify-content: center;
 }
 
+.warrnings{
+    color: red;
+}
+
 /* THIS PART I TOOK AS IT IS FROM ONLINE SOURCE */
 .submitButton:hover {
     background-image: linear-gradient(
